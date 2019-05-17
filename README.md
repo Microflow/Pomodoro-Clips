@@ -1,5 +1,6 @@
-# Pomodoro-Clips
-23-26 minutes. It's a speaking, singing Pomodoro. 
+<p align="center">
+<img width="50%" src="http://i.imgur.com/JuCQfLt.jpg">
+</p>
 
 # Jordan Peterson
 
