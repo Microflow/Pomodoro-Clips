@@ -6,7 +6,7 @@
 
 # Jordan Peterson
 
-## Use your fear to push you forward in life
+### Use your fear to push you forward in life
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=oHfyHuymGcU" target="_blank"><img src="http://img.youtube.com/vi/oHfyHuymGcU/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="120" height="90" border="10" /></a>
@@ -17,6 +17,7 @@ alt="IMAGE ALT TEXT HERE" width="120" height="90" border="10" /></a>
 alt="IMAGE ALT TEXT HERE" width="120" height="90" border="10" /></a>
 
 ## Metallica
+###  Monsters Of Rock, Moscow 1991
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=eng4OTDqtoM
 " target="_blank"><img src="http://img.youtube.com/vi/eng4OTDqtoM/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="120" height="90" border="10" /></a>
