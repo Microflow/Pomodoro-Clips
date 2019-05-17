@@ -3,7 +3,7 @@
 
 # Jordan Peterson
 
-[https://www.youtube.com/watch?v=oHfyHuymGcU](Use your fear to push you forward in life)
+## Use your fear to push you forward in life
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
 " target="_blank"><img src="http://img.youtube.com/vi/oHfyHuymGcU/0.jpg" 
