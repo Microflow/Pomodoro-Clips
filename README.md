@@ -2,7 +2,7 @@
 <img width="50%" src="http://i.imgur.com/JuCQfLt.jpg">
 </p>
 
-# All vids between 22 and 27 minutes long!
+# All vids between 22 and 30 minutes long!
 
 # Jordan Peterson
 
@@ -28,6 +28,8 @@ alt="IMAGE ALT TEXT HERE" width="120" height="90" border="10" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=RjdbiYZai7M
 " target="_blank"><img src="http://img.youtube.com/vi/RjdbiYZai7M/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="120" height="90" border="10" /></a>
+
+### 般若波羅蜜多心經唱頌 (Heart Sutra) - 黃慧音 (Imee Ooi)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=2HcOWGKPxpQ
 " target="_blank"><img src="http://img.youtube.com/vi/2HcOWGKPxpQ/0.jpg" 
